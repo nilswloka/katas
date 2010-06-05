@@ -1,0 +1,15 @@
+Game of Life Kata
+-----------------
+
+This is the code I've written while doing the Game of Life kata (http://codingdojo.org/cgi-bin/wiki.pl?KataGameOfLife) at XP2010 after missing Emily Bache's (http://emilybache.blogspot.com/) coding dojo.
+As you will notice, my Clojure fu leaves a lot to be desired, so feel invited to leave comments and feedback. Also have a look at the other two implementations.
+
+Notes
+-----
+
+This was my second attempt at this kata in Clojure. After having read Robert Martin's blog about TDDing Clojure code (http://blog.objectmentor.com/articles/2010/06/03/tdd-in-clojure), I gave the bottom-up approach a try and found it more natural. I also tried nested vectors for representing the grid, but am not really happy with it. If you know of a more idiomatic way to write evolve, please let me now.
+
+License
+-------
+
+No license to be found here. Use this however you want.
