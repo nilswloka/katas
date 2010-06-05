@@ -1,12 +1,15 @@
-# Game of Life Kata
+Game of Life Kata
+-----------------
 
-This is the code I've written while doing the [Game of Life kata](http://codingdojo.org/cgi-bin/wiki.pl?KataGameOfLife) at XP2010 after missing [Emily Bache's](http://emilybache.blogspot.com/) coding dojo.
+This is the code I've written while doing the Game of Life kata (http://codingdojo.org/cgi-bin/wiki.pl?KataGameOfLife) at XP2010 after missing Emily Bache's (http://emilybache.blogspot.com/) coding dojo.
 As you will notice, my Clojure fu leaves a lot to be desired, so feel invited to leave comments and feedback. Also have a look at the other two implementations.
 
-## Notes
+Notes
+-----
 
 This was my first attempt at this kata in Clojure. I tried to TDD it outside-in, which didn't work all that well, so I basically only have an acceptance test in place.
 
-## License
+License
+-------
 
 No license to be found here. Use this however you want.
